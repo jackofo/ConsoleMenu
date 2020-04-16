@@ -1,0 +1,8 @@
+C:\Users\Jacek\source\repos\ConsoleMenu\ConsoleMenu\bin\Release\netstandard2.0\ConsoleMenu.deps.json
+C:\Users\Jacek\source\repos\ConsoleMenu\ConsoleMenu\bin\Release\netstandard2.0\ConsoleMenu.dll
+C:\Users\Jacek\source\repos\ConsoleMenu\ConsoleMenu\bin\Release\netstandard2.0\ConsoleMenu.pdb
+C:\Users\Jacek\source\repos\ConsoleMenu\ConsoleMenu\obj\Release\netstandard2.0\ConsoleMenu.csprojAssemblyReference.cache
+C:\Users\Jacek\source\repos\ConsoleMenu\ConsoleMenu\obj\Release\netstandard2.0\ConsoleMenu.AssemblyInfoInputs.cache
+C:\Users\Jacek\source\repos\ConsoleMenu\ConsoleMenu\obj\Release\netstandard2.0\ConsoleMenu.AssemblyInfo.cs
+C:\Users\Jacek\source\repos\ConsoleMenu\ConsoleMenu\obj\Release\netstandard2.0\ConsoleMenu.dll
+C:\Users\Jacek\source\repos\ConsoleMenu\ConsoleMenu\obj\Release\netstandard2.0\ConsoleMenu.pdb
